@@ -1,4 +1,4 @@
-# Digital Transaction Fraud Detection System (C++)
+# Sentinel – Fraud & Compliance Engine  (C++)
 
 > Enterprise-grade, rule-based fraud detection engine for digital payment systems. Built in pure C++ with a modular architecture, persistent storage, and compliance-style controls.
 
